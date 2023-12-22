@@ -1,5 +1,5 @@
 
 let a=18;
 let b=8;
-c=a-b;
+c=a*b;
 return c;
